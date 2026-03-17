@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,8 +19,29 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ashvin-KS
-          base: ""
+
+          # Keep output clean and stable.
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+          config_padding: 10%
+          config_twemoji: yes
+          config_output: svg
+
+          # Isometric 3D contribution calendar.
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Stable additions that do not commonly break rendering.
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css
+
+          plugin_lines: yes
+
+          # Avoid unstable/broken sections in rendered card.
+          plugin_achievements: no
+          plugin_notable: no
+
           filename: github-metrics.svg
-          config_timezone: Asia/Kolkata
