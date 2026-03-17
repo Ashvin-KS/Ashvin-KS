@@ -85,10 +85,47 @@ I'm an **NVIDIA-certified developer** in RAG Agents and CUDA, and I'm currently 
 
 </div>
 
----
+## 🎮 Developer Achievements
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/Ashvin-KS/Ashvin-KS/output/github-contribution-grid-snake.svg)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ashvin-KS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## ⚔️ Character Stats
+
+```
+╔══════════════════════════════════════════════════════════╗
+║              ASHVIN KS  ·  DEVELOPER  ·  LVL 3          ║
+╠══════════════════════════════════════════════════════════╣
+║  CLASS    :  Full-Stack Mage + AI Artificer              ║
+║  GUILD    :  Microsoft Innovations Club · AOSSIE GSoC    ║
+║  CERT     :  NVIDIA RAG / CUDA  ★ CERTIFIED              ║
+╠══════════════════════════════════════════════════════════╣
+║  ⚡ TypeScript  ████████████████████░░  90%              ║
+║  🐍 Python      ██████████████████░░░░  80%              ║
+║  🦀 Rust        ████████████░░░░░░░░░░  55%              ║
+║  🤖 ML / AI     ███████████████░░░░░░░  70%              ║
+║  🖥️  Desktop UX  ███████████████████░░  85%              ║
+╠══════════════════════════════════════════════════════════╣
+║  🗡️  ACTIVE QUEST : GSoC 2026 — Accord Project APAP     ║
+║  🛡️  SIDE QUEST   : EduAid · PictoPy contribution streak ║
+║  🏆 ACHIEVEMENT   : First Open Source Issue Filed ✓      ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🌌 Contribution Galaxy (Isometric 3D)
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/Ashvin-KS/Ashvin-KS/main/github-metrics.svg)
+
+</div>
+
+> ⚙️ *To activate the isometric view above, add [`.github/workflows/metrics.yml`](https://github.com/Ashvin-KS/Ashvin-KS/blob/main/.github/workflows/metrics.yml) to your profile repo and set a `METRICS_TOKEN` secret.*
+
