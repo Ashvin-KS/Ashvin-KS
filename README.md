@@ -1,89 +1,45 @@
 <div align="center">
 
-<!-- Header / Identity -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Ashvin+K+S;Full-Stack+%E2%80%A2+AI+Desktop+%E2%80%A2+Open+Source;Building+local-first+software" alt="Typing SVG" />
 
-<!-- Resume CTA — this IS my resume (no LinkedIn) -->
-<a href="https://ashvin-ks.github.io/portfolio/"><img src="https://img.shields.io/badge/View_Full_Resume-ashvin--ks.github.io-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume" /></a>
-<a href="mailto:ashvinksg@gmail.com"><img src="https://img.shields.io/badge/Email-ashvinksg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Ashvin-KS?tab=repositories"><img src="https://img.shields.io/badge/All_Work-47_Public_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" /></a>
+<a href="https://ashvin-ks.github.io/portfolio/">📄 Full Resume / Portfolio</a> &nbsp;·&nbsp;
+<a href="mailto:ashvinksg@gmail.com">✉️ ashvinksg@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://github.com/Ashvin-KS?tab=repositories">📂 All Repos</a>
 
-<!-- Status pills -->
-<p>
-  <img src="https://img.shields.io/badge/VIT_Chennai-B.Tech_CS_(9.38_CGPA)-7B68EE?style=flat-square" alt="VIT" />
-  <img src="https://img.shields.io/badge/Status-Open_to_internships_2026-22C55E?style=flat-square" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Ashvin-KS&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-</p>
+<br/><br/>
+`B.Tech CS @ VIT Chennai` · `CGPA 9.38` · `Open to internships 2026`
 
 </div>
 
 ---
 
-> **CS undergraduate @ VIT Chennai** turning ideas into shipped software across the full stack — local-first AI desktop apps, web platforms, and machine-learning experiments. NVIDIA-certified in RAG agents & CUDA Python. No LinkedIn by choice — *this profile and my [portfolio](https://ashvin-ks.github.io/portfolio/) are my resume.*
+> CS undergraduate building shipped software across the full stack — local-first AI desktop apps, web platforms, and ML experiments. NVIDIA-certified in RAG agents & CUDA Python. No LinkedIn by choice — *this profile and my [portfolio](https://ashvin-ks.github.io/portfolio/) are my resume.*
 
 ---
 
 ## 🚀 Flagship — DSC
 
-<table>
-<tr>
-<td width="60%" valign="top">
+**[DSC](https://github.com/Ashvin-KS/DSC)** — A local-first desktop productivity shell built with **Tauri · React · Rust IPC · NVIDIA NIM**.
 
-### [DSC](https://github.com/Ashvin-KS/DSC) &nbsp; <img src="https://img.shields.io/badge/Tauri-2C2C2C?style=flat-square&logo=tauri&logoColor=FFC131" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+One app unifying AI chat, notes, schedules, activity tracking, and filesystem-aware workflows. Everything runs against the user's own filesystem — no data leaves the machine. A serious attempt at a private, extensible desktop AI.
 
-A **local-first desktop productivity shell** — one app unifying AI chat, notes, schedules, activity tracking, and filesystem-aware workflows. Built with **Tauri + React + Rust IPC**, talking to **NVIDIA NIM** embedding endpoints on-device.
-
-Everything runs against the user's own filesystem; no data leaves the machine. This is the project I care about most — a serious attempt at a private, extensible desktop AI.
-
-</td>
-<td width="40%" align="center">
-
-<a href="https://github.com/Ashvin-KS/DSC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashvin-KS&repo=DSC&theme=tokyonight&hide_border=true" alt="DSC repo card" />
-</a>
-
-</td>
-</tr>
-</table>
+<br/><br/>
+<p align="center">
+<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashvin-KS&repo=DSC&theme=tokyonight&hide_border=true" alt="DSC" />
+</p>
 
 ---
 
 ## 🛠 Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [Checkora](https://checkora.vercel.app) · <sub>Chess AI</sub>
-Chess platform with an AI opponent powered by **minimax + alpha-beta pruning** — a C++ engine wrapped in Django.
-<br/><a href="https://github.com/Ashvin-KS/Checkora"><img src="https://img.shields.io/badge/Code-Django_+_C++-092E20?style=flat-square&logo=github" /></a> <a href="https://checkora.vercel.app"><img src="https://img.shields.io/badge/Live-checkora.vercel.app-22C55E?style=flat-square" /></a>
-
-#### [GSoC Org Finder](https://findmygsoc.vercel.app/) · <sub>2026 Applicant</sub>
-Filter all 184 selected GSoC orgs by tech stack, language & domain. No install needed — pure static tooling.
-<br/><a href="https://github.com/Ashvin-KS/GSoC-Org-Finder-"><img src="https://img.shields.io/badge/Code-HTML/JS-181717?style=flat-square&logo=github" /></a> <a href="https://findmygsoc.vercel.app/"><img src="https://img.shields.io/badge/Live-findmygsoc-22C55E?style=flat-square" /></a>
-
-#### [intent-flow](https://github.com/Ashvin-KS/intent-flow) · <sub>Rust · ⭐</sub>
-Intent-driven workflow automation engine written from scratch in Rust.
-<br/><a href="https://github.com/Ashvin-KS/intent-flow"><img src="https://img.shields.io/badge/Code-Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a> <img src="https://img.shields.io/github/stars/Ashvin-KS/intent-flow?style=flat-square&color=yellow" />
-
-</td>
-<td width="50%" valign="top">
-
-#### [EnterpriseRAG-AI](https://github.com/Ashvin-KS/EnterpriseRAG-AI) · <sub>Infra</sub>
-Observability-first RAG platform — FastAPI, Redis, async workflows, semantic retrieval, realtime streaming & distributed tracing.
-<br/><a href="https://github.com/Ashvin-KS/EnterpriseRAG-AI"><img src="https://img.shields.io/badge/Code-FastAPI_+_TS-009688?style=flat-square&logo=github" /></a>
-
-#### [DailyForge](https://dailyforge-frontend-lhjq.onrender.com) · <sub>MERN</sub>
-Open-source MERN productivity app — drag-and-drop weekly scheduling, smart task library, overlap protection.
-<br/><a href="https://github.com/Ashvin-KS/DailyForge"><img src="https://img.shields.io/badge/Code-MERN-47A24B?style=flat-square&logo=github" /></a> <a href="https://dailyforge-frontend-lhjq.onrender.com"><img src="https://img.shields.io/badge/Live-onrender-22C55E?style=flat-square" /></a>
-
-#### [ai-slop-guardian](https://github.com/Ashvin-KS/ai-slop-guardian) · <sub>GitHub App</sub>
-GitHub App that detects & labels AI-generated slop in PRs, issues, and comments.
-<br/><a href="https://github.com/Ashvin-KS/ai-slop-guardian"><img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=github" /></a>
-
-</td>
-</tr>
-</table>
+| | Project | What it does |
+|---:|---|---|
+| ♟ | [**Checkora**](https://github.com/Ashvin-KS/Checkora) · [live](https://checkora.vercel.app) | Chess platform with minimax + alpha-beta AI — C++ engine wrapped in Django |
+| 🔍 | [**GSoC Org Finder**](https://github.com/Ashvin-KS/GSoC-Org-Finder-) · [live](https://findmygsoc.vercel.app/) | Filter all 184 GSoC 2026 orgs by tech stack, language & domain — no install needed |
+| ⚡ | [**intent-flow**](https://github.com/Ashvin-KS/intent-flow) · ⭐ | Intent-driven workflow automation engine, written in Rust |
+| 🧠 | [**EnterpriseRAG-AI**](https://github.com/Ashvin-KS/EnterpriseRAG-AI) | Observability-first RAG infra — FastAPI, Redis, semantic retrieval, streaming |
+| 📅 | [**DailyForge**](https://github.com/Ashvin-KS/DailyForge) · [live](https://dailyforge-frontend-lhjq.onrender.com) | Open-source MERN productivity app — drag-and-drop scheduling, overlap protection |
+| 🤖 | [**ai-slop-guardian**](https://github.com/Ashvin-KS/ai-slop-guardian) | GitHub App that detects & labels AI-generated slop in PRs, issues, and comments |
 
 <details>
 <summary><b>📦 More repos</b> — full-stack, ML, and tooling</summary>
@@ -93,12 +49,12 @@ GitHub App that detects & labels AI-generated slop in PRs, issues, and comments.
 |---|---|---|
 | [Musicplayer](https://github.com/Ashvin-KS/Musicplayer) | YouTube-sourced music streaming app with playlists & custom playbar | React · Flask |
 | [arnio](https://github.com/Ashvin-KS/arnio) | C++-accelerated data-quality toolkit for Python (parsing, cleaning, profiling) | Python · C++ |
-| [pathfinder-ai](https://pathfinder-ai-auta.vercel.app) | Full-stack AI career platform — resume builder, mock interviews, cover letters | JS |
-| [devtrack](https://github.com/Ashvin-KS/devtrack) | Open-source dev productivity dashboard — GitHub stats, PR metrics, streaks | TS |
-| [Draftdeckai](https://github.com/Ashvin-KS/Draftdeckai) | Open-source AI document platform — resumes, presentations, CVs | TS |
-| [pdfToPng](https://pdftopng.vercel.app/) | Privacy-first media converter — zero data stored | JS |
+| [pathfinder-ai](https://github.com/Ashvin-KS/pathfinder-ai) · [live](https://pathfinder-ai-auta.vercel.app) | AI career platform — resume builder, mock interviews, cover letters | JS |
+| [devtrack](https://github.com/Ashvin-KS/devtrack) · [live](https://devtrack-delta.vercel.app) | Dev productivity dashboard — GitHub stats, PR metrics, streaks | TS |
+| [Draftdeckai](https://github.com/Ashvin-KS/Draftdeckai) | AI document platform — resumes, presentations, CVs | TS |
+| [pdfToPng](https://github.com/Ashvin-KS/pdfToPng) · [live](https://pdftopng.vercel.app/) | Privacy-first media converter — zero data stored | JS |
 | [EduAid](https://github.com/Ashvin-KS/EduAid) | Auto-generates short quizzes from provided content | JS |
-| [calisthenics-app](https://calisthenics-app-self.vercel.app) | Responsive calisthenics workout & volume tracker | HTML · JS |
+| [calisthenics-app](https://github.com/Ashvin-KS/calisthenics-app) · [live](https://calisthenics-app-self.vercel.app) | Responsive calisthenics workout & volume tracker | HTML · JS |
 
 </details>
 
@@ -106,31 +62,15 @@ GitHub App that detects & labels AI-generated slop in PRs, issues, and comments.
 
 ## ⚙️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+**Languages** — TypeScript · Rust · Python · C++ · Dart · JavaScript
+
+**Frontend & Desktop** — React · Tauri · Vite · Tailwind CSS
+
+**Backend** — Node.js · FastAPI · Django · Flask · PostgreSQL · Redis
+
+**AI & ML** — PyTorch · CUDA · HuggingFace · scikit-learn · OpenCV · NVIDIA NIM
+
+**Tooling** — Docker · GitHub Actions · Vercel · Render
 
 ---
 
