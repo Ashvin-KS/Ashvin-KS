@@ -1,66 +1,96 @@
-# 🛡️ Player Character: Ashvin K S
-
 <div align="center">
 
-`Class: Local-First Systems Engineer` &nbsp;·&nbsp; `Level: 19 (VIT Chennai)` &nbsp;·&nbsp; `Mana: 9.38 CGPA`
+```text
+[ ✅ SYSTEM BOOT ] ─────────────────────────────────────────────────
+ > INITIALIZING LOCAL-FIRST KERNEL...       [ OK ]
+ > MOUNTING ENCRYPTED FILESYSTEM...         [ OK ]
+ > ESTABLISHING SECURE IPC CHANNELS...      [ OK ]
+ > LOADING CHARACTER PROFILE...             [ OK ]
+ > WELCOME, ENGINEER.
+```
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🔮_Inspect_Character-ashvin--ks.github.io-58a6ff?style=flat-square&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/✉️_Send_Message-ashvinksg@gmail.com-58a6ff?style=flat-square&labelColor=0d1117)](mailto:ashvinksg@gmail.com)&nbsp;&nbsp;
-[![Repos](https://img.shields.io/badge/📂_Inventory_Vault-51_Repos-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
+# 🛡️ ENTITY: ASHVIN K S
+### `Class:` Local-First Systems Engineer  |  `Alignment:` Lawful Private (No-Cloud)
+### `Location:` VIT Chennai [Level 19]  |  `Core Mana:` 9.38 CGPA
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Forging+on-device+software+architectures;Rust+%E2%9A%94+Tauri+%E2%9A%94+React+%E2%9A%94+C%2B%2B;NVIDIA+Certified+RAG+%26+CUDA+Engineer;Data+never+leaves+the+machine." alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🔮_INSPECT_CHARACTER-ashvin--ks.github.io-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/✉️_ENCRYPTED_MAIL-ashvinksg@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:ashvinksg@gmail.com)
+[![Repos](https://img.shields.io/badge/📂_INVENTORY_VAULT-51_REPOS-58a6ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
+[![Discord](https://img.shields.io/badge/🎮_STATUS-OFFLINE_BY_CHOICE-8b949e?style=for-the-badge&labelColor=0d1117)](#)
 
 </div>
 
 ---
 
-### 📊 Character Attributes
+### 🧬 ENTITY VITALS & ATTRIBUTES
 
-```
-[+] STRENGTH (Systems & Backend) ── [████████████████░░] 85%  (Rust, Tauri IPC, C++, Docker)
-[+] AGILITY (Frontend & Web) ───── [██████████████████] 90%  (React, TypeScript, Tailwind)
-[+] INTELLIGENCE (AI & Data) ───── [██████████████░░░░] 70%  (FastAPI, RAG, CUDA, PyTorch)
+```diff
++ [ HP ] ████████████████████ 100%  (System Integrity)
++ [ MP ] ██████████████░░░░░░  70%  (AI Compute Reserves)
++ [ XP ] ██████████████████░░  85%  (Next Level: 20)
 ```
 
-> **Biography:** CS undergraduate forging local-first software. Specializes in building applications that run completely on-device, keeping data private and pipelines secure. NVIDIA-certified in RAG agents and CUDA programming. No LinkedIn by choice—this vault is my resume.
+| Attribute | Proficiency | Core Modules Equipped |
+| :--- | :--- | :--- |
+| 🦾 **STRENGTH** | `████████████████░░` 85% | `Rust` · `Tauri IPC` · `C++` · `Docker` |
+| 🏃 **AGILITY** | `██████████████████` 90% | `React` · `TypeScript` · `Tailwind` |
+| 🧠 **INTELLIGENCE** | `██████████████░░░░` 70% | `FastAPI` · `RAG` · `CUDA` · `PyTorch` |
+
+> **📜 Lore:** A CS undergraduate forging local-first software. Specializes in building applications that run completely on-device, keeping data private and pipelines secure. NVIDIA-certified in RAG agents and CUDA programming. No LinkedIn by choice—this vault is my resume.
 
 ---
 
-### 🗡️ Equipped Artifacts (Flagship Works)
+### ⚔️ EQUIPPED ARTIFACTS (FLAGSHIP WORKS)
 
-#### `[Legendary]` [DSC — Desktop Shell Commander](https://github.com/Ashvin-KS/DSC)
-*A local-first desktop productivity shell unifying AI chat, notes, schedules, activity tracking, and filesystem workflows.*
-*   **Item Type:** Tauri · React · Rust IPC · NVIDIA NIM
-*   **Special Effect:** Local Vector DB. Everything runs against the user's filesystem—no data leaves the machine.
+#### `[Legendary]` 🛡️ DSC — Desktop Shell Commander
+> *A local-first desktop productivity shell unifying AI chat, notes, schedules, activity tracking, and filesystem workflows.*
+*   **Item Type:** `Tauri` · `React` · `Rust IPC` · `NVIDIA NIM`
+*   **Enchantments:** `[On-Device Vector DB]` `[Zero-Telemetry]`
+*   **Special Effect:** Everything runs against the user's filesystem. No data leaves the machine. Period.
+*   **Action:** [🔗 Enter Vault](https://github.com/Ashvin-KS/DSC)
 
-#### `[Rare]` [Checkora Chess Engine](https://github.com/Ashvin-KS/Checkora)
-*Chess platform with minimax + alpha-beta AI.*
-*   **Item Type:** C++ Engine · Django · React
-*   **Special Effect:** High-depth algorithm calculations wrapped in a responsive web client. (Live: [checkora.vercel.app](https://checkora.vercel.app))
+#### `[Rare]` ♟️ Checkora Chess Engine
+> *Chess platform with minimax + alpha-beta AI.*
+*   **Item Type:** `C++ Engine` · `Django` · `React`
+*   **Stats:** `DMG: High-Depth Calc` `SPD: Responsive Client`
+*   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/Checkora) · [🌍 Live Deployment](https://checkora.vercel.app)
 
-#### `[Rare]` [GSoC Org Finder](https://github.com/Ashvin-KS/GSoC-Org-Finder-)
-*Filtered directory for all 184 GSoC partner organizations.*
-*   **Item Type:** Static Client Engine · JS
-*   **Special Effect:** Search & filter by stack instantly without any install requirements. (Live: [findmygsoc.vercel.app](https://findmygsoc.vercel.app))
+#### `[Rare]` 🗺️ GSoC Org Finder
+> *Filtered directory for all 184 GSoC partner organizations.*
+*   **Item Type:** `Static Client Engine` · `JS`
+*   **Enchantments:** `[Zero-Install]` `[Instant Query]`
+*   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/GSoC-Org-Finder-) · [🌍 Live Deployment](https://findmygsoc.vercel.app)
 
-#### `[Uncommon]` [intent-flow](https://github.com/Ashvin-KS/intent-flow)
-*Intent-driven workflow automation engine.*
-*   **Item Type:** Pure Rust Engine · Event Loop
+#### `[Uncommon]` ⚙️ intent-flow
+> *Intent-driven workflow automation engine.*
+*   **Item Type:** `Pure Rust Engine` · `Event Loop`
 *   **Special Effect:** Thread-safe execution of complex automated workflows.
+*   **Action:** [🔗 Enter Vault](https://github.com/Ashvin-KS/intent-flow)
 
-#### `[Uncommon]` [EnterpriseRAG-AI](https://github.com/Ashvin-KS/EnterpriseRAG-AI)
-*Observability-first RAG pipeline infrastructure.*
-*   **Item Type:** FastAPI · Redis · Vector DB
-*   **Special Effect:** Sub-second retrieval with async semantic search and streaming.
+#### `[Uncommon]` 🧠 EnterpriseRAG-AI
+> *Observability-first RAG pipeline infrastructure.*
+*   **Item Type:** `FastAPI` · `Redis` · `Vector DB`
+*   **Enchantments:** `[Sub-Second Retrieval]` `[Async Streaming]`
+*   **Action:** [🔗 Enter Vault](https://github.com/Ashvin-KS/EnterpriseRAG-AI)
 
-#### `[Uncommon]` [DailyForge](https://github.com/Ashvin-KS/DailyForge)
-*Drag-and-drop productivity manager with automatic layout protection.*
-*   **Item Type:** MERN Stack
-*   **Special Effect:** Calendar collision prevention rules. (Live: [dailyforge-frontend-lhjq.onrender.com](https://dailyforge-frontend-lhjq.onrender.com))
+#### `[Uncommon]` 📅 DailyForge
+> *Drag-and-drop productivity manager with automatic layout protection.*
+*   **Item Type:** `MERN Stack`
+*   **Special Effect:** Calendar collision prevention rules.
+*   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/DailyForge) · [🌍 Live Deployment](https://dailyforge-frontend-lhjq.onrender.com)
 
 ---
 
-### 🛡️ Skill Tree (Tech Stack)
+### 🌳 SKILL TREE (TECH ARSENAL)
+
+<details open>
+<summary><b>🔧 Expand Arsenal Matrix</b></summary>
 
 ```toml
 [Languages]
@@ -76,57 +106,64 @@ Engines   = ["Node.js", "FastAPI", "Django", "Flask"]
 Databases = ["PostgreSQL", "Redis"]
 
 [Artificial_Intelligence]
-Hardware  = ["CUDA", "NVIDIA NIM"]
-Frameworks = ["PyTorch", "HuggingFace", "OpenCV"]
+Hardware    = ["CUDA", "NVIDIA NIM"]
+Frameworks  = ["PyTorch", "HuggingFace", "OpenCV"]
 
 [Deployment_&_Ops]
 Tooling   = ["Docker", "GitHub Actions", "Vercel", "Render"]
 ```
+</details>
 
 ---
 
-### 🏆 Completed Quests & Achievements (Certs)
+### 🏆 ACHIEVEMENTS UNLOCKED (CERTIFICATIONS)
 
 ```diff
-+ [QUEST COMPLETE] NVIDIA DLI ────────── Building RAG Agents with LLMs
-  URL: https://learn.nvidia.com/certificates?id=49ve03VPTzutzfy7COFhig
++ [🏆 ACHIEVEMENT UNLOCKED] NVIDIA DLI ────────── Building RAG Agents with LLMs
+  > Reward: Neural Network Mastery +5
+  > Link: https://learn.nvidia.com/certificates?id=49ve03VPTzutzfy7COFhig
 
-+ [QUEST COMPLETE] NVIDIA DLI ────────── Fundamentals of CUDA Python
-  URL: https://learn.nvidia.com/certificates?id=dIwwBtNGRF6Dc3syAF245g
++ [🏆 ACHIEVEMENT UNLOCKED] NVIDIA DLI ────────── Fundamentals of CUDA Python
+  > Reward: GPU Optimization +5
+  > Link: https://learn.nvidia.com/certificates?id=dIwwBtNGRF6Dc3syAF245g
 
-+ [QUEST COMPLETE] DeepLearning.AI ───── Machine Learning Specialization
-  URL: https://coursera.org/share/eb7c8afa8d746ddd582941a6d05e8a49
++ [🏆 ACHIEVEMENT UNLOCKED] DeepLearning.AI ───── Machine Learning Specialization
+  > Reward: Predictive Modeling +5
+  > Link: https://coursera.org/share/eb7c8afa8d746ddd582941a6d05e8a49
 
-+ [QUEST COMPLETE] University of Helsinki ── Full Stack Open
-  URL: https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/5346d975a83dfbc30160335374fc4985
++ [🏆 ACHIEVEMENT UNLOCKED] University of Helsinki ── Full Stack Open
+  > Reward: End-to-End Architecture +5
+  > Link: https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/5346d975a83dfbc30160335374fc4985
 
-+ [QUEST COMPLETE] Postman ───────────── API Fundamentals Student Expert
-  URL: https://badges.parchment.com/public/assertions/kvMPTAfHTDmzAoSNblvaSA?identity__email=ashvinksg%40gmail.com
++ [🏆 ACHIEVEMENT UNLOCKED] Postman ───────────── API Fundamentals Student Expert
+  > Reward: Endpoint Orchestration +5
+  > Link: https://badges.parchment.com/public/assertions/kvMPTAfHTDmzAoSNblvaSA?identity__email=ashvinksg%40gmail.com
 
-+ [QUEST COMPLETE] Google Cloud ──────── Cloud Learning Paths
-  URL: https://www.skills.google/public_profiles/33a2ea85-10bf-4245-b2fa-0ee4af814133)
++ [🏆 ACHIEVEMENT UNLOCKED] Google Cloud ──────── Cloud Learning Paths
+  > Reward: Cloud Infrastructure +5
+  > Link: https://www.skills.google/public_profiles/33a2ea85-10bf-4245-b2fa-0ee4af814133)
 ```
 
 ---
 
-### ⚔️ Guild Alliance (Experience)
+### 🏰 GUILD ALLIANCES (EXPERIENCE)
 
-*   **Microsoft Innovations Club** (VIT Chennai)
-    *   *Role:* Core Full-Stack Developer [2024 - Present]
-    *   *Activities:* Building production-grade apps, participating in guild hackathons.
-*   **AOSSIE (GSSoC Contribution)**
-    *   *Role:* Open Source Contributor [2026 - Present]
-    *   *Activities:* Committing features to **PictoPy** (object detection & local face clustering).
+| Guild | Role | Duration | Reputation |
+| :--- | :--- | :--- | :--- |
+| **Microsoft Innovations Club** | Core Full-Stack Developer | `2024 - Present` | `Exalted` |
+| *Building production-grade apps, participating in guild hackathons.* | | | |
+| **AOSSIE (GSSoC Contribution)** | Open Source Contributor | `2026 - Present` | `Honored` |
+| *Committing features to **PictoPy** (object detection & local face clustering).* | | | |
 
 ---
 
-### 📊 Battle History (Github Analytics)
+### 📊 SYSTEM TELEMETRY (GITHUB ANALYTICS)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashvin-KS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashvin-KS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin-KS&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin-KS&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 <br/><br/>
 
@@ -149,5 +186,15 @@ Tooling   = ["Docker", "GitHub Actions", "Vercel", "Render"]
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ashvin-KS&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views" />
+  
+```text
+[ ⚠️ SYSTEM OUTGOING ] ──────────────────────────────────────────────
+ > SAVING LOCAL STATE...
+ > CLOSING IPC CHANNELS...
+ > CONNECTION TERMINATED.
+```
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Ashvin-KS&style=for-the-badge&color=58a6ff&label=TOTAL+ENTITY+SCANS" alt="Profile Views" />
+
 </div>
