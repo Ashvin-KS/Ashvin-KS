@@ -1,223 +1,79 @@
-<div align="center">
+# ASHVIN K S
 
-```text
-[ ⚡ BOOTING LOCAL-FIRST KERNEL ] ──────────────────────────────────
- > INITIALIZING RUST RUNTIME...              [ OK ]
- > MOUNTING ENCRYPTED FILESYSTEM...          [ OK ]
- > ESTABLISHING TAURI IPC CHANNELS...        [ OK ]
- > DEPLOYING ON-DEVICE VECTOR DB...          [ OK ]
- > HANDSHAKE WITH NVIDIA NIM...              [ OK ]
- > WELCOME, SOVEREIGN USER.
-```
+**COMPUTER SCIENCE UNDERGRADUATE | FULL-STACK & DESKTOP APP DEVELOPER**
 
-<br/>
-
-# 🧬 ASHVIN K S
-### `Archetype:` Local-First Systems Engineer  |  `Faction:` The Privacy Vanguard
-### `Coordinates:` VIT Chennai [Level 19]  |  `Core Mana:` 9.38 CGPA
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Forging+sovereign+software+architectures;Rust+%E2%9A%94+Tauri+%E2%9A%94+React+%E2%9A%94+C%2B%2B;No+Cloud.+No+Telemetry.+No+Compromise.;Data+is+a+liability.+Keep+it+local." alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🔮_INSPECT_CHARACTER-ashvin--ks.github.io-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/✉️_ENCRYPTED_MAIL-ashvinksg@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:ashvinksg@gmail.com)
-[![Repos](https://img.shields.io/badge/📂_INVENTORY_VAULT-51_REPOS-58a6ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/🚫_LINKEDIN-DISABLED_BY_CHOICE-8b949e?style=for-the-badge&labelColor=0d1117)](#)
-
-</div>
+[ashvinksg@gmail.com](mailto:ashvinksg@gmail.com) &nbsp;·&nbsp; [github.com/Ashvin-KS](https://github.com/Ashvin-KS) &nbsp;·&nbsp; [ashvin-ks.github.io/portfolio](https://ashvin-ks.github.io/portfolio/)
 
 ---
 
-### 📜 THE MANIFESTO (Core Directives)
+### 01 / PROFILE
 
-```diff
-+ DIRECTIVE 01: DATA SOVEREIGNTY
-  In an era where SaaS demands rent for your own thoughts, I forge 
-  applications that run entirely on-device. Your filesystem is your boundary.
-
-+ DIRECTIVE 02: COMPUTE EFFICIENCY
-  Leveraging Rust and C++ for zero-cost abstractions. If it can be compiled 
-  to bare metal, it shouldn't be interpreted. 
-
-+ DIRECTIVE 03: AI UNCHAINED
-  NVIDIA-certified in RAG & CUDA. I build intelligent agents that augment 
-  local workflows without piping user context through external APIs.
-```
+> I work across TypeScript, Python, Rust, and Dart to turn ideas into usable software. My focus is local-first desktop apps, AI-assisted workflows, course-planning utilities, and machine learning experiments that are clean to run, easy to read, and simple to improve.
 
 ---
 
-### ⚙️ SYSTEM.CONFIG (Entity Vitals)
+### 02 / EDUCATION
 
-<div align="center">
-
-| Stat | Meter | Loadout |
-| :--- | :--- | :--- |
-| 🦾 **SYSTEMS** | `████████████████░░` 85% | `Rust` · `Tauri IPC` · `C++` · `Docker` |
-| 🏃 **INTERFACE** | `██████████████████` 90% | `React` · `TypeScript` · `Tailwind` |
-| 🧠 **COMPUTE** | `██████████████░░░░` 70% | `FastAPI` · `RAG` · `CUDA` · `PyTorch` |
-| 🛡️ **INTEGRITY** | `██████████████████` 100% | `Local-First` · `Zero-Cloud` |
-
-</div>
+#### **Vellore Institute of Technology, Chennai**
+*B.Tech — Computer Science & Engineering* &nbsp;·&nbsp; `Aug 2024 – May 2028`
+*   **Current CGPA:** `9.38 / 10.00`
 
 ---
 
-### 🗺️ ACTIVE QUEST LOG (Current Focus)
+### 03 / TECHNICAL CAPABILITIES
 
-```text
-[ MAIN QUEST ] ─── DSC: Desktop Shell Commander
- > STATUS: Actively Forging [██████████░░] 80%
- > OBJECTIVE: Unify AI chat, schedules, and filesystem workflows 
-              into a single, local-first Tauri shell.
-
-[ SIDE QUEST ] ─── PictoPy (AOSSIE / GSSoC)
- > STATUS: Open Source Contribution [███░░░░░░░] 30%
- > OBJECTIVE: Implement object detection & local face clustering 
-              without reliance on cloud vision APIs.
-```
+*   **Languages** — TypeScript, Python, Rust, JavaScript, Dart, C, Shell/Bash
+*   **Frontend** — React, Vite, Tailwind CSS, Framer Motion, HTML/CSS
+*   **Desktop** — Tauri, Rust IPC, Flutter
+*   **Backend** — Node.js, FastAPI, Flask, PostgreSQL, MongoDB, Redis fundamentals
+*   **AI / ML** — scikit-learn, PyTorch basics, NVIDIA NIM APIs, HuggingFace, OpenCV, CUDA Python fundamentals
+*   **DevOps** — GitHub Actions, Vercel, Render, Docker basics
 
 ---
 
-### 🗡️ ARTIFACT VAULT (Flagship Engineering)
+### 04 / SELECTED PROJECTS
 
-<details open>
-<summary><b>🔓 Access Vault Contents</b></summary>
+#### 🖥️ **DSC — Desktop AI Workspace Prototype**
+*TypeScript · Tauri · NVIDIA NIM* &nbsp;·&nbsp; [Codebase ↗](https://github.com/Ashvin-KS/DSC)
+*   Built a local-first desktop productivity prototype with Tauri, React, TypeScript, and Rust, combining chat, notes, schedules, activity tracking, and filesystem-aware workflows.
+*   Implemented Rust-backed desktop commands and IPC-style data access patterns to keep the UI responsive while working with local resources.
 
-#### `[Legendary]` 🛡️ DSC — Desktop Shell Commander
-> *A local-first desktop productivity shell unifying AI chat, notes, schedules, activity tracking, and filesystem workflows.*
-*   **Item Type:** `Tauri` · `React` · `Rust IPC` · `NVIDIA NIM`
-*   **Enchantments:** `[On-Device Vector DB]` `[Zero-Telemetry]`
-*   **Special Effect:** Everything runs against the user's filesystem. No data leaves the machine. Period.
-*   **Action:** [🔗 Enter Vault](https://github.com/Ashvin-KS/DSC)
+#### 🎵 **Music Streaming Web App**
+*React · Flask · Python* &nbsp;·&nbsp; [Codebase ↗](https://github.com/Ashvin-KS/Musicplayer)
+*   Developed a full-stack music streaming web application using a React frontend and a Flask backend, sourcing audio content dynamically from YouTube.
+*   Implemented client-side state management for audio controls, search queries, and custom playlists, designing a responsive Spotify-style player interface.
 
-#### `[Rare]` ♟️ Checkora Chess Engine
-> *Chess platform with minimax + alpha-beta AI.*
-*   **Item Type:** `C++ Engine` · `Django` · `React`
-*   **Stats:** `DMG: High-Depth Calc` `SPD: Responsive Client`
-*   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/Checkora) · [🌍 Live Deployment](https://checkora.vercel.app)
-
-#### `[Rare]` 🗺️ GSoC Org Finder
-> *Filtered directory for all 184 GSoC partner organizations.*
-*   **Item Type:** `Static Client Engine` · `JS`
-*   **Enchantments:** `[Zero-Install]` `[Instant Query]`
-*   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/GSoC-Org-Finder-) · [🌍 Live Deployment](https://findmygsoc.vercel.app)
-
-#### `[Uncommon]` ⚙️ intent-flow
-> *Intent-driven workflow automation engine.*
-*   **Item Type:** `Pure Rust Engine` · `Event Loop`
-*   **Special Effect:** Thread-safe execution of complex automated workflows.
-*   **Action:** [🔗 Enter Vault](https://github.com/Ashvin-KS/intent-flow)
-
-#### `[Uncommon]` 🧠 EnterpriseRAG-AI
-> *Observability-first RAG pipeline infrastructure.*
-*   **Item Type:** `FastAPI` · `Redis` · `Vector DB`
-*   **Enchantments:** `[Sub-Second Retrieval]` `[Async Streaming]`
-*   **Action:** [🔗 Enter Vault](https://github.com/Ashvin-KS/EnterpriseRAG-AI)
-
-#### `[Uncommon]` 📅 DailyForge
-> *Drag-and-drop productivity manager with automatic layout protection.*
-*   **Item Type:** `MERN Stack`
-*   **Special Effect:** Calendar collision prevention rules.
-*   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/DailyForge) · [🌍 Live Deployment](https://dailyforge-frontend-lhjq.onrender.com)
-
-</details>
+#### ♟️ **Amorvin Chess AI — Game-Tree Search Project**
+*Python · Minimax* &nbsp;·&nbsp; [Codebase ↗](https://github.com/Ashvin-KS/Amorvin-Chess-AI)
+*   Implemented a Python chess AI using minimax search, alpha-beta pruning, and custom board evaluation heuristics.
+*   Used the project to practice search algorithms, move evaluation, and performance-aware Python structure.
 
 ---
 
-### 🧰 INVENTORY GRID (Tech Stack Matrix)
+### 05 / CERTIFICATIONS
 
-<div align="center">
-
-| Category | Equipped Modules | Proficiency |
-| :--- | :--- | :--- |
-| **💻 Languages** | `TypeScript` `Rust` `Python` `C++` | `Mastered` |
-| **🌐 Web & Desktop** | `React` `Tauri` `Vite` `Tailwind` | `Mastered` |
-| **🗄️ Backend & DB** | `Node.js` `FastAPI` `Django` `PostgreSQL` | `Mastered` |
-| **🤖 AI & Hardware** | `CUDA` `NVIDIA NIM` `PyTorch` `OpenCV` | `Certified` |
-| **🚀 DevOps & Ops** | `Docker` `GitHub Actions` `Vercel` | `Fluent` |
-
-</div>
+*   **Full Stack Open** — University of Helsinki &nbsp;·&nbsp; [Verify ↗](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/5346d975a83dfbc30160335374fc4985)
+*   **Machine Learning Specialization** — DeepLearning.AI &nbsp;·&nbsp; [Verify ↗](https://coursera.org/share/eb7c8afa8d746ddd582941a6d05e8a49)
+*   **Building RAG Agents with LLMs** — NVIDIA Deep Learning Institute &nbsp;·&nbsp; [Verify ↗](https://learn.nvidia.com/certificates?id=49ve03VPTzutzfy7COFhig)
+*   **Fundamentals of CUDA Python** — NVIDIA Deep Learning Institute &nbsp;·&nbsp; [Verify ↗](https://learn.nvidia.com/certificates?id=dIwwBtNGRF6Dc3syAF245g)
+*   **Google Cloud Learning Paths** — Google Cloud &nbsp;·&nbsp; [Verify ↗](https://www.skills.google/public_profiles/33a2ea85-10bf-4245-b2fa-0ee4af814133)
+*   **API Fundamentals Student Expert** — Postman &nbsp;·&nbsp; [Verify ↗](https://badges.parchment.com/public/assertions/kvMPTAfHTDmzAoSNblvaSA?utm_source=url_copy&identity__email=ashvinksg%40gmail.com)
 
 ---
 
-### 🏆 ACHIEVEMENTS UNLOCKED (Certifications)
+### 06 / ACTIVITIES & LEADERSHIP
 
-```diff
-+ [🏆 ACHIEVEMENT UNLOCKED] NVIDIA DLI ────────── Building RAG Agents with LLMs
-  > Reward: Neural Network Mastery +5
-  > Link: https://learn.nvidia.com/certificates?id=49ve03VPTzutzfy7COFhig
-
-+ [🏆 ACHIEVEMENT UNLOCKED] NVIDIA DLI ────────── Fundamentals of CUDA Python
-  > Reward: GPU Optimization +5
-  > Link: https://learn.nvidia.com/certificates?id=dIwwBtNGRF6Dc3syAF245g
-
-+ [🏆 ACHIEVEMENT UNLOCKED] DeepLearning.AI ───── Machine Learning Specialization
-  > Reward: Predictive Modeling +5
-  > Link: https://coursera.org/share/eb7c8afa8d746ddd582941a6d05e8a49
-
-+ [🏆 ACHIEVEMENT UNLOCKED] University of Helsinki ── Full Stack Open
-  > Reward: End-to-End Architecture +5
-  > Link: https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/5346d975a83dfbc30160335374fc4985
-
-+ [🏆 ACHIEVEMENT UNLOCKED] Postman ───────────── API Fundamentals Student Expert
-  > Reward: Endpoint Orchestration +5
-  > Link: https://badges.parchment.com/public/assertions/kvMPTAfHTDmzAoSNblvaSA?identity__email=ashvinksg%40gmail.com
-
-+ [🏆 ACHIEVEMENT UNLOCKED] Google Cloud ──────── Cloud Learning Paths
-  > Reward: Cloud Infrastructure +5
-  > Link: https://www.skills.google/public_profiles/33a2ea85-10bf-4245-b2fa-0ee4af814133)
-```
-
----
-
-### 🏰 GUILD ALLIANCES (Experience)
-
-| Guild | Role | Tenure | Reputation |
-| :--- | :--- | :--- | :--- |
-| **Microsoft Innovations Club** | Core Full-Stack Developer | `2024 - Present` | `Exalted` |
-| **AOSSIE (GSSoC Contribution)** | Open Source Contributor | `2026 - Present` | `Honored` |
-
----
-
-### 📊 SYSTEM TELEMETRY (Github Analytics)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashvin-KS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin-KS&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Ashvin-KS&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvin-KS&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&area_color=58a6ff" alt="Activity Graph" width="95%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashvin-KS/Ashvin-KS/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashvin-KS/Ashvin-KS/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Ashvin-KS/Ashvin-KS/output/github-snake.svg" />
-</picture>
-
-</div>
+*   **Full-Stack Developer — Microsoft Innovations Club** &nbsp;·&nbsp; `2024 – Present`
+    *   *VIT Chennai* — Contributing to club web projects, internal tools, APIs, and practical deployment workflows.
+*   **GSSoC 2026 Contributor — Open Source Learner** &nbsp;·&nbsp; `2025 – Present`
+    *   *AOSSIE* — PictoPy: studying the codebase and preparing contribution work around image organization, object detection, and face-clustering workflows.
+*   **Technical Volunteer — CodeChef VITC Chapter** &nbsp;·&nbsp; `2024 – Present`
+    *   *VIT Chennai* — Supporting algorithmic practice, competitive programming sessions, and campus technical events.
+*   **Member — Android Club VITC** &nbsp;·&nbsp; `2024 – Present`
+    *   *VIT Chennai* — Exploring Android development fundamentals and participating in club workshops, hackathons, and technical events.
 
 ---
 
 <div align="center">
-
-```text
-[ ⚠️ TERMINATING SESSION ] ─────────────────────────────────────────
- > SAVING LOCAL STATE...
- > FLUSHING MEMORY CACHE...
- > CLOSING IPC CHANNELS...
- > CONNECTION CLOSED. BUILD SOMETHING SOVEREIGN.
-```
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Ashvin-KS&style=for-the-badge&color=58a6ff&label=TOTAL+ENTITY+SCANS" alt="Profile Views" />
-
+<img src="https://komarev.com/ghpvc/?username=Ashvin-KS&style=flat-square&color=58a6ff&label=visitors" alt="Profile Views" />
 </div>
