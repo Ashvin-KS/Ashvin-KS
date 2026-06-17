@@ -1,16 +1,19 @@
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║     █████╗ ███████╗██╗  ██╗██╗   ██╗██╗███╗   ██╗                            ║
-║    ██╔══██╗██╔════╝██║  ██║██║   ██║██║████╗  ██║                            ║
-║    ███████║███████╗███████║██║   ██║██║██╔██╗ ██║                            ║
-║    ██╔══██║╚════██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║                            ║
-║    ██║  ██║███████║██║  ██║ ╚████╔╝ ██║██║ ╚████║                            ║
-║    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                            ║
-║                                                                               ║
-║    ASHVIN_OS v3.0  ·  System Boot Complete  ·  All modules loaded             ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                       ║
+║     █████╗  ██████╗██╗  ██╗██╗   ██╗██╗███╗   ██╗    ██████╗ ███████╗                                 ║
+║    ██╔══██╗██╔════╝██║  ██║██║   ██║██║████╗  ██║    ██╔══██╗██╔════╝                                 ║
+║    ███████║███████╗███████║██║   ██║██║██╔██╗ ██║    ██████╔╝███████╗                                 ║
+║    ██╔══██║╚════██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║    ██╔══██╗╚════██║                                 ║
+║    ██║  ██║███████║██║  ██║ ╚████╔╝ ██║██║ ╚████║    ██║  ██║███████║                                 ║
+║    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚══════╝                                 ║
+║                                                                                                       ║
+║    [System] Booting AshvinOS v3.5.2-LTS...                                                            ║
+║    [System] Initializing microkernels... [ OK ]                                                       ║
+║    [System] Mounting local-first workspace... [ OK ]                                                  ║
+║    [System] Establishing secure terminal session... [ OK ]                                            ║
+║                                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -19,183 +22,191 @@
 [![Email](https://img.shields.io/badge/→_email-ashvinksg@gmail.com-58a6ff?style=flat-square&labelColor=0d1117)](mailto:ashvinksg@gmail.com)&nbsp;&nbsp;
 [![Repos](https://img.shields.io/badge/→_repos-51_repositories-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
 
+<br/>
+
+`B.Tech CS @ VIT Chennai` · `CGPA 9.38` · `Open to internships 2026`
+
 </div>
 
 ---
 
+### `> tmux attach-session -t ashvin-terminal`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```yaml
-# ╭──────────────────────────────────────────────╮
-# │           SYSTEM MANIFEST                    │
-# ╰──────────────────────────────────────────────╯
+# ╭──────────────────────────────────────────╮
+# │  PANEL 0: SYSTEM METRICS                 │
+# ╰──────────────────────────────────────────╯
+$ status-monitor --live
 
-ashvin@github:~$ cat /etc/profile.d/ashvin.conf
+[HOST]      VIT-Chennai-Node-4
+[KERNEL]    Ashvin-LTS-x86_64
+[SHELL]     zsh (Tauri-integrated)
+[UPTIME]    19 years, 2 followers
 
-name:       "Ashvin K S"
-location:   "VIT Chennai"
-degree:     "B.Tech Computer Science"
-gpa:        9.38
-status:     "Open to internships — 2026"
-philosophy: "Privacy by design. Local-first. Ship it."
+[RESOURCE ALLOCATION]
+CPU ░░░░░░░░░░░░░░░░░░░░░░ [9.38/10.0 CGPA]
+RAM ██████████████████░░░░ [88% Full-Stack]
+GPU ██████████████████████ [NVIDIA NIM & CUDA]
 
-about: >
-  CS undergrad building shipped software across the full stack —
-  local-first AI desktop apps, web platforms, and ML experiments.
-  NVIDIA-certified in RAG agents & CUDA Python.
-  No LinkedIn by choice — this profile and my portfolio ARE my resume.
+[RUNNING TASKS]
+● dsc-daemon.service      [ RUNNING ] (Flagship)
+● checkora-engine.elf     [ STANDBY ] (Chess AI)
+● gsoc-org-finder.bin     [ STABLE  ] (GSoC 2026)
+● intent-flow-rust.bin    [ ACTIVE  ] (Starred)
+● enterprise-rag.service  [ STANDBY ] (FastAPI)
+● slop-guardian-app.sys   [ IDLE    ] (GitHub App)
+```
+
+</td>
+<td width="50%" valign="top">
+
+```toml
+# ╭──────────────────────────────────────────╮
+# │  PANEL 1: TECH_STACK.TOML                │
+# ╰──────────────────────────────────────────╯
+$ cat ~/.config/environment.toml
+
+[languages]
+active = ["TypeScript", "Rust", "Python", "C++"]
+legacy = ["Dart", "JavaScript"]
+
+[frontend]
+core    = "React"
+shell   = "Tauri (Local-First Desktop)"
+bundler = "Vite"
+style   = "Tailwind CSS"
+
+[backend]
+stack     = ["Node.js", "FastAPI", "Django", "Flask"]
+datastore = ["PostgreSQL", "Redis"]
+
+[ai_ml]
+acceleration = ["CUDA", "PyTorch"]
+inference    = "NVIDIA NIM"
+libraries    = ["HuggingFace", "OpenCV"]
+
+[ops]
+runtime = ["Docker", "GitHub Actions"]
+deploy  = ["Vercel", "Render"]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> tail -n 8 /var/log/ashvin-os.log`
+
+```log
+[2026-06-17 07:42:01] [INFO] [DSC-Engine] Tauri IPC channel bound successfully.
+[2026-06-17 07:42:05] [INFO] [DSC-Engine] Loading local filesystem vector DB (privacy first).
+[2026-06-17 07:43:12] [OK]   [NVIDIA-NIM] Connected to local Llama-3-8B-Instruct endpoint.
+[2026-06-17 07:44:00] [OK]   [CUDA-Python] CUDA compiler initialized on GPU 0.
+[2026-06-17 07:45:18] [INFO] [Checkora] Chess engine ready (Depth: 18, minimax thread pools active).
+[2026-06-17 07:46:22] [WARN] [Slop-Guardian] High volume of AI slop detected in PR queue. Initiating block routine.
+[2026-06-17 07:47:01] [INFO] No LinkedIn account detected by choice. This terminal acts as verified source.
+[2026-06-17 07:47:35] [READY] Ashvin K S is open to engineering internships for 2026.
 ```
 
 ---
 
-## `> ls -la ~/projects/flagship/`
+### `> ls -la ~/projects/shipped/`
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  DSC — Desktop Shell Commander                                       ║
-║  A local-first desktop productivity shell                            ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║  One app unifying AI chat, notes, schedules, activity tracking,      ║
-║  and filesystem-aware workflows. Everything runs against the         ║
-║  user's own filesystem — no data leaves the machine.                 ║
-║                                                                       ║
-║  ┌─────────────────────────────────────────────────────────────┐     ║
-║  │  STACK   Tauri · React · Rust IPC · NVIDIA NIM              │     ║
-║  │  TYPE    Desktop App — Privacy-First AI                     │     ║
-║  │  STATUS  Active Development                                 │     ║
-║  └─────────────────────────────────────────────────────────────┘     ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
+drwxr-xr-x  ashvin  staff  1.2K  🏆 DSC (Desktop Shell Commander)
+  └─ Tauri + React + Rust IPC desktop environment. Connects local file systems to NVIDIA NIM.
+     Privacy-first desktop AI assistant keeping all user data completely on-device.
+     → Repo: https://github.com/Ashvin-KS/DSC
+
+drwxr-xr-x  ashvin  staff   512B ♟ Checkora
+  └─ Chess platform featuring C++ minimax + alpha-beta pruning engine.
+     → Repo: https://github.com/Ashvin-KS/Checkora  |  Live: https://checkora.vercel.app
+
+drwxr-xr-x  ashvin  staff   512B 🔍 GSoC Org Finder
+  └─ High-performance filter interface for all 184 GSoC 2026 partner organizations.
+     → Repo: https://github.com/Ashvin-KS/GSoC-Org-Finder-  |  Live: https://findmygsoc.vercel.app
+
+drwxr-xr-x  ashvin  staff   256B ⚡ intent-flow  [⭐ Starred]
+  └─ Intent-driven workflow orchestration engine written entirely in pure Rust.
+     → Repo: https://github.com/Ashvin-KS/intent-flow
+
+drwxr-xr-x  ashvin  staff   512B 🧠 EnterpriseRAG-AI
+  └─ Enterprise observability RAG pipeline featuring FastAPI, Redis, semantic search & tracing.
+     → Repo: https://github.com/Ashvin-KS/EnterpriseRAG-AI
+
+drwxr-xr-x  ashvin  staff   512B 📅 DailyForge
+  └─ Productive MERN calendar tool with automatic layout overlap protection.
+     → Repo: https://github.com/Ashvin-KS/DailyForge  |  Live: https://dailyforge-frontend-lhjq.onrender.com
+
+drwxr-xr-x  ashvin  staff   256B 🤖 ai-slop-guardian
+  └─ Proactive GitHub App detecting and flagging low-quality AI comments and issues.
+     → Repo: https://github.com/Ashvin-KS/ai-slop-guardian
 ```
-**→ [`github.com/Ashvin-KS/DSC`](https://github.com/Ashvin-KS/DSC)**
-
----
-
-## `> tree ~/projects/shipped/ --depth 1`
-
-```
-~/projects/shipped/
-│
-├── ♟  Checkora/
-│   ├── desc:  "Chess platform with minimax + alpha-beta AI"
-│   ├── stack: C++ engine · Django · React
-│   ├── repo:  github.com/Ashvin-KS/Checkora
-│   └── live:  checkora.vercel.app ✓
-│
-├── 🔍 GSoC-Org-Finder/
-│   ├── desc:  "Filter all 184 GSoC 2026 orgs by stack, lang & domain"
-│   ├── stack: Pure static tooling · Zero install
-│   ├── repo:  github.com/Ashvin-KS/GSoC-Org-Finder-
-│   └── live:  findmygsoc.vercel.app ✓
-│
-├── ⚡ intent-flow/                                          ⭐ starred
-│   ├── desc:  "Intent-driven workflow automation engine"
-│   ├── stack: Rust · from scratch
-│   └── repo:  github.com/Ashvin-KS/intent-flow
-│
-├── 🧠 EnterpriseRAG-AI/
-│   ├── desc:  "Observability-first RAG infra"
-│   ├── stack: FastAPI · Redis · Semantic Retrieval · Streaming
-│   └── repo:  github.com/Ashvin-KS/EnterpriseRAG-AI
-│
-├── 📅 DailyForge/
-│   ├── desc:  "Drag-and-drop weekly scheduling + overlap protection"
-│   ├── stack: MERN
-│   ├── repo:  github.com/Ashvin-KS/DailyForge
-│   └── live:  dailyforge-frontend-lhjq.onrender.com ✓
-│
-└── 🤖 ai-slop-guardian/
-    ├── desc:  "Detects & labels AI-generated slop in PRs/issues"
-    ├── stack: GitHub App
-    └── repo:  github.com/Ashvin-KS/ai-slop-guardian
-```
-
-> **All links:** [Checkora](https://github.com/Ashvin-KS/Checkora) · [GSoC Org Finder](https://github.com/Ashvin-KS/GSoC-Org-Finder-) · [intent-flow](https://github.com/Ashvin-KS/intent-flow) · [EnterpriseRAG-AI](https://github.com/Ashvin-KS/EnterpriseRAG-AI) · [DailyForge](https://github.com/Ashvin-KS/DailyForge) · [ai-slop-guardian](https://github.com/Ashvin-KS/ai-slop-guardian)
 
 <details>
-<summary><code>> tree ~/projects/more/ --depth 0</code> — <b>8 more repos</b></summary>
+<summary><b>📦 ~/projects/archived/</b> (8 secondary projects)</summary>
 <br/>
 
 ```
-~/projects/more/
-│
-├── 🎵 Musicplayer/         React · Flask      → YouTube-sourced streaming app
-├── 🔧 arnio/               Python · C++       → C++-accelerated data-quality toolkit
-├── 🧭 pathfinder-ai/       JavaScript         → AI career platform (resume, interviews)
-├── 📊 devtrack/             TypeScript         → Dev productivity dashboard
-├── 📝 Draftdeckai/          TypeScript         → AI document platform
-├── 🔄 pdfToPng/             JavaScript         → Privacy-first media converter
-├── 📚 EduAid/               JavaScript         → Auto quiz generator
-└── 💪 calisthenics-app/     HTML · JS          → Workout & volume tracker
+├── 🎵 Musicplayer        -> YT-sourced streaming app (React, Flask)
+├── 🔧 arnio              -> C++ accelerated python data-quality toolkit
+├── 🧭 pathfinder-ai      -> AI Career guidance app (mock interviews)
+├── 📊 devtrack           -> Dev dashboard tracking commit metrics
+├── 📝 Draftdeckai        -> Document automation toolkit
+├── 🔄 pdfToPng           -> Zero-storage secure converter engine
+├── 📚 EduAid             -> Interactive educational quiz generator
+└── 💪 calisthenics-app   -> Local fitness workout track framework
 ```
 
-> [Musicplayer](https://github.com/Ashvin-KS/Musicplayer) · [arnio](https://github.com/Ashvin-KS/arnio) · [pathfinder-ai](https://github.com/Ashvin-KS/pathfinder-ai) · [devtrack](https://github.com/Ashvin-KS/devtrack) · [Draftdeckai](https://github.com/Ashvin-KS/Draftdeckai) · [pdfToPng](https://github.com/Ashvin-KS/pdfToPng) · [EduAid](https://github.com/Ashvin-KS/EduAid) · [calisthenics-app](https://github.com/Ashvin-KS/calisthenics-app)
+> Links: [Musicplayer](https://github.com/Ashvin-KS/Musicplayer) · [arnio](https://github.com/Ashvin-KS/arnio) · [pathfinder-ai](https://github.com/Ashvin-KS/pathfinder-ai) · [devtrack](https://github.com/Ashvin-KS/devtrack) · [Draftdeckai](https://github.com/Ashvin-KS/Draftdeckai) · [pdfToPng](https://github.com/Ashvin-KS/pdfToPng) · [EduAid](https://github.com/Ashvin-KS/EduAid) · [calisthenics-app](https://github.com/Ashvin-KS/calisthenics-app)
 
 </details>
 
 ---
 
-## `> cat ~/.config/stack.toml`
+### `> gpg --decrypt credentials.asc`
 
-```toml
-[languages]
-primary   = ["TypeScript", "Rust", "Python", "C++"]
-secondary = ["Dart", "JavaScript"]
-
-[frontend]
-frameworks = ["React", "Tauri", "Vite"]
-styling    = ["Tailwind CSS"]
-
-[backend]
-runtimes  = ["Node.js", "FastAPI", "Django", "Flask"]
-databases = ["PostgreSQL", "Redis"]
-
-[ai_ml]
-frameworks = ["PyTorch", "CUDA", "HuggingFace", "scikit-learn", "OpenCV"]
-platforms  = ["NVIDIA NIM"]
-
-[devops]
-tools = ["Docker", "GitHub Actions", "Vercel", "Render"]
+```
+[✓] NVIDIA DLI        Building RAG Agents with LLMs (Verified)
+                      → https://learn.nvidia.com/certificates?id=49ve03VPTzutzfy7COFhig
+[✓] NVIDIA DLI        Fundamentals of CUDA Python (Verified)
+                      → https://learn.nvidia.com/certificates?id=dIwwBtNGRF6Dc3syAF245g
+[✓] DeepLearning.AI   Machine Learning Specialization (Verified)
+                      → https://coursera.org/share/eb7c8afa8d746ddd582941a6d05e8a49
+[✓] U. Helsinki       Full Stack Open (Verified)
+                      → https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/5346d975a83dfbc30160335374fc4985
+[✓] Postman           API Fundamentals Student Expert (Verified)
+                      → https://badges.parchment.com/public/assertions/kvMPTAfHTDmzAoSNblvaSA?identity__email=ashvinksg%40gmail.com
+[✓] Google Cloud      Cloud Learning Paths (Verified)
+                      → https://www.skills.google/public_profiles/33a2ea85-10bf-4245-b2fa-0ee4af814133
 ```
 
 ---
 
-## `> gpg --list-keys --verified-only`
+### `> systemctl status experience.service`
 
 ```
-╭──────────────────────────────────────────────────────────────────────╮
-│  VERIFIED CREDENTIALS                                                │
-╰──────────────────────────────────────────────────────────────────────╯
+● experience.service - Professional Developer Record
+     Loaded: loaded (/etc/systemd/system/experience.service; enabled)
+     Active: active (running) since Oct 2024
 
-  [✓] NVIDIA DLI        Building RAG Agents with LLMs
-  [✓] NVIDIA DLI        Fundamentals of CUDA Python
-  [✓] DeepLearning.AI   Machine Learning Specialization
-  [✓] U. Helsinki       Full Stack Open
-  [✓] Postman           API Fundamentals Student Expert
-  [✓] Google Cloud      Cloud Learning Paths
-```
+  - Microsoft Innovations Club (VIT Chennai)
+    Role: Full-Stack Developer [2024 - Present]
+    Status: Active core member, shipping production grade code.
 
-> **Verify:** [NVIDIA RAG](https://learn.nvidia.com/certificates?id=49ve03VPTzutzfy7COFhig) · [NVIDIA CUDA](https://learn.nvidia.com/certificates?id=dIwwBtNGRF6Dc3syAF245g) · [ML Specialization](https://coursera.org/share/eb7c8afa8d746ddd582941a6d05e8a49) · [Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/5346d975a83dfbc30160335374fc4985) · [Postman Expert](https://badges.parchment.com/public/assertions/kvMPTAfHTDmzAoSNblvaSA?identity__email=ashvinksg%40gmail.com) · [GCP](https://www.skills.google/public_profiles/33a2ea85-10bf-4245-b2fa-0ee4af814133)
-
----
-
-## `> systemctl status experience.service`
-
-```
-● experience.service — Professional History
-     Loaded: loaded
-     Active: active (running)
-
-  UNIT                              ROLE                        SINCE
-  ──────────────────────────────────────────────────────────────────────
-  microsoft-innovations-club        Full-Stack Developer        2024 →
-  aossie/gssoc                      GSSoC Contributor           2026 →
-                                    (PictoPy — object detection,
-                                     face clustering)
+  - AOSSIE (GSSoC Contributor)
+    Role: Open Source Contributor [2026 - Present]
+    Status: Staged commits on PictoPy (Object detection, local face clustering).
 ```
 
 ---
 
-## `> neofetch`
+### `> neofetch`
 
 <div align="center">
 
@@ -230,11 +241,8 @@ tools = ["Docker", "GitHub Actions", "Vercel", "Render"]
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║   ashvin@github:~$ echo "Thanks for visiting."                               ║
-║   Thanks for visiting.                                                        ║
-║                                                                               ║
-║   ashvin@github:~$ echo $MOTTO                                              ║
-║   "Building local-first software — privacy by design, one commit at a time." ║
+║   ashvin@github:~$ echo "Closing session."                                   ║
+║   Closing session. Connection terminated.                                     ║
 ║                                                                               ║
 ║   ashvin@github:~$ █                                                         ║
 ║                                                                               ║
