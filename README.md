@@ -1,48 +1,36 @@
 <div align="center">
 
-```text
-[ ✅ SYSTEM BOOT ] ─────────────────────────────────────────────────
- > INITIALIZING LOCAL-FIRST KERNEL...       [ OK ]
- > MOUNTING ENCRYPTED FILESYSTEM...         [ OK ]
- > ESTABLISHING SECURE IPC CHANNELS...      [ OK ]
- > LOADING CHARACTER PROFILE...             [ OK ]
- > WELCOME, ENGINEER.
-```
+# 🌌 ＰＬＡＹＥＲ ＥＮＴＩＴＹ： ＡＳＨＶＩＮ Ｋ Ｓ
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=%3E_SYSTEM_BOOT%3A+ASHVIN_K_S;%E2%9A%94%EF%B8%8F+LOCAL-FIRST+SYSTEMS+ARCHITECT;%F0%9F%9B%A1%EF%B8%8F+RUST+%E2%9C%95+TAURI+%E2%9C%95+AI+AGENTS;%E2%9A%A1+VIBE+CODING+PROTOCOL+ENGAGED" alt="Typing SVG" />
 
-# 🛡️ ENTITY: ASHVIN K S
-### `Class:` Local-First Systems Engineer  |  `Alignment:` Lawful Private (No-Cloud)
-### `Location:` VIT Chennai [Level 19]  |  `Core Mana:` 9.38 CGPA
+`[CLASS: Local-First Systems Paladin]` &nbsp;·&nbsp; `[LVL: 19 | VIT_Chennai.Server]` &nbsp;·&nbsp; `[MANA: 9.38 CGPA]`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Forging+on-device+software+architectures;Rust+%E2%9A%94+Tauri+%E2%9A%94+React+%E2%9A%94+C%2B%2B;NVIDIA+Certified+RAG+%26+CUDA+Engineer;Data+never+leaves+the+machine." alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🔮_INSPECT_CHARACTER-ashvin--ks.github.io-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/✉️_ENCRYPTED_MAIL-ashvinksg@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:ashvinksg@gmail.com)
-[![Repos](https://img.shields.io/badge/📂_INVENTORY_VAULT-51_REPOS-58a6ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
-[![Discord](https://img.shields.io/badge/🎮_STATUS-OFFLINE_BY_CHOICE-8b949e?style=for-the-badge&labelColor=0d1117)](#)
+[![Portfolio](https://img.shields.io/badge/🔮_Inspect_Character-ashvin--ks.github.io-58a6ff?style=for-the-badge&logo=appveyor&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/✉️_Send_Message-ashvinksg@gmail.com-58a6ff?style=for-the-badge&logo=gmail&labelColor=0d1117)](mailto:ashvinksg@gmail.com)
+[![Repos](https://img.shields.io/badge/📂_Inventory_Vault-51_Repos-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
 
 </div>
 
 ---
 
-### 🧬 ENTITY VITALS & ATTRIBUTES
+### 🖲️ `[TERMINAL_READOUT // BIOGRAPHY]`
 
-```diff
-+ [ HP ] ████████████████████ 100%  (System Integrity)
-+ [ MP ] ██████████████░░░░░░  70%  (AI Compute Reserves)
-+ [ XP ] ██████████████████░░  85%  (Next Level: 20)
+> **Directive:** Forging local-first software. Architecting applications that run completely on-device—zero telemetry, absolute privacy, maximum velocity.
+> **Playstyle:** *Vibe Coding.* Bypassing manual syntax to architect complex systems natively through agentic AI prompting and deep algorithmic logic.
+> **Passive Buffs:** *Calisthenics Core* (5-Minute Plank Endurance for deep-focus debugging), *Hardware Optimizer* (Squeezing max local inference out of an RTX 4050). 
+> **Status:** No LinkedIn. This vault is the sole truth.
+
+---
+
+### 📊 `[CHARACTER_ATTRIBUTES]`
+
+```text
+[+] STRENGTH     (Systems & IPC)   ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀] 85%  (Rust, Tauri, C++, Memory Safety)
+[+] AGILITY      (Web & UX)        ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 95%  (React, TypeScript, Tailwind)
+[+] INTELLIGENCE (AI & Inference)  ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀] 75%  (FastAPI, RAG, CUDA, Local LLMs)
+[+] ENDURANCE    (Data Structures) ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀] 80%  (Algorithm tracing & Logic grids)
 ```
-
-| Attribute | Proficiency | Core Modules Equipped |
-| :--- | :--- | :--- |
-| 🦾 **STRENGTH** | `████████████████░░` 85% | `Rust` · `Tauri IPC` · `C++` · `Docker` |
-| 🏃 **AGILITY** | `██████████████████` 90% | `React` · `TypeScript` · `Tailwind` |
-| 🧠 **INTELLIGENCE** | `██████████████░░░░` 70% | `FastAPI` · `RAG` · `CUDA` · `PyTorch` |
-
-> **📜 Lore:** A CS undergraduate forging local-first software. Specializes in building applications that run completely on-device, keeping data private and pipelines secure. NVIDIA-certified in RAG agents and CUDA programming. No LinkedIn by choice—this vault is my resume.
 
 ---
 
