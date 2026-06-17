@@ -1,40 +1,87 @@
 <div align="center">
 
-# 🌌 ＰＬＡＹＥＲ ＥＮＴＩＴＹ： ＡＳＨＶＩＮ Ｋ Ｓ
+```text
+[ ⚡ BOOTING LOCAL-FIRST KERNEL ] ──────────────────────────────────
+ > INITIALIZING RUST RUNTIME...              [ OK ]
+ > MOUNTING ENCRYPTED FILESYSTEM...          [ OK ]
+ > ESTABLISHING TAURI IPC CHANNELS...        [ OK ]
+ > DEPLOYING ON-DEVICE VECTOR DB...          [ OK ]
+ > HANDSHAKE WITH NVIDIA NIM...              [ OK ]
+ > WELCOME, SOVEREIGN USER.
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=%3E_SYSTEM_BOOT%3A+ASHVIN_K_S;%E2%9A%94%EF%B8%8F+LOCAL-FIRST+SYSTEMS+ARCHITECT;%F0%9F%9B%A1%EF%B8%8F+RUST+%E2%9C%95+TAURI+%E2%9C%95+AI+AGENTS;%E2%9A%A1+VIBE+CODING+PROTOCOL+ENGAGED" alt="Typing SVG" />
+<br/>
 
-`[CLASS: Local-First Systems Paladin]` &nbsp;·&nbsp; `[LVL: 19 | VIT_Chennai.Server]` &nbsp;·&nbsp; `[MANA: 9.38 CGPA]`
+# 🧬 ASHVIN K S
+### `Archetype:` Local-First Systems Engineer  |  `Faction:` The Privacy Vanguard
+### `Coordinates:` VIT Chennai [Level 19]  |  `Core Mana:` 9.38 CGPA
 
-[![Portfolio](https://img.shields.io/badge/🔮_Inspect_Character-ashvin--ks.github.io-58a6ff?style=for-the-badge&logo=appveyor&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/✉️_Send_Message-ashvinksg@gmail.com-58a6ff?style=for-the-badge&logo=gmail&labelColor=0d1117)](mailto:ashvinksg@gmail.com)
-[![Repos](https://img.shields.io/badge/📂_Inventory_Vault-51_Repos-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Forging+sovereign+software+architectures;Rust+%E2%9A%94+Tauri+%E2%9A%94+React+%E2%9A%94+C%2B%2B;No+Cloud.+No+Telemetry.+No+Compromise.;Data+is+a+liability.+Keep+it+local." alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🔮_INSPECT_CHARACTER-ashvin--ks.github.io-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ashvin-ks.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/✉️_ENCRYPTED_MAIL-ashvinksg@gmail.com-58a6ff?style=for-the-badge&labelColor=0d1117)](mailto:ashvinksg@gmail.com)
+[![Repos](https://img.shields.io/badge/📂_INVENTORY_VAULT-51_REPOS-58a6ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Ashvin-KS?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/🚫_LINKEDIN-DISABLED_BY_CHOICE-8b949e?style=for-the-badge&labelColor=0d1117)](#)
 
 </div>
 
 ---
 
-### 🖲️ `[TERMINAL_READOUT // BIOGRAPHY]`
+### 📜 THE MANIFESTO (Core Directives)
 
-> **Directive:** Forging local-first software. Architecting applications that run completely on-device—zero telemetry, absolute privacy, maximum velocity.
-> **Playstyle:** *Vibe Coding.* Bypassing manual syntax to architect complex systems natively through agentic AI prompting and deep algorithmic logic.
-> **Passive Buffs:** *Calisthenics Core* (5-Minute Plank Endurance for deep-focus debugging), *Hardware Optimizer* (Squeezing max local inference out of an RTX 4050). 
-> **Status:** No LinkedIn. This vault is the sole truth.
+```diff
++ DIRECTIVE 01: DATA SOVEREIGNTY
+  In an era where SaaS demands rent for your own thoughts, I forge 
+  applications that run entirely on-device. Your filesystem is your boundary.
 
----
++ DIRECTIVE 02: COMPUTE EFFICIENCY
+  Leveraging Rust and C++ for zero-cost abstractions. If it can be compiled 
+  to bare metal, it shouldn't be interpreted. 
 
-### 📊 `[CHARACTER_ATTRIBUTES]`
-
-```text
-[+] STRENGTH     (Systems & IPC)   ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀] 85%  (Rust, Tauri, C++, Memory Safety)
-[+] AGILITY      (Web & UX)        ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 95%  (React, TypeScript, Tailwind)
-[+] INTELLIGENCE (AI & Inference)  ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀] 75%  (FastAPI, RAG, CUDA, Local LLMs)
-[+] ENDURANCE    (Data Structures) ── [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀] 80%  (Algorithm tracing & Logic grids)
++ DIRECTIVE 03: AI UNCHAINED
+  NVIDIA-certified in RAG & CUDA. I build intelligent agents that augment 
+  local workflows without piping user context through external APIs.
 ```
 
 ---
 
-### ⚔️ EQUIPPED ARTIFACTS (FLAGSHIP WORKS)
+### ⚙️ SYSTEM.CONFIG (Entity Vitals)
+
+<div align="center">
+
+| Stat | Meter | Loadout |
+| :--- | :--- | :--- |
+| 🦾 **SYSTEMS** | `████████████████░░` 85% | `Rust` · `Tauri IPC` · `C++` · `Docker` |
+| 🏃 **INTERFACE** | `██████████████████` 90% | `React` · `TypeScript` · `Tailwind` |
+| 🧠 **COMPUTE** | `██████████████░░░░` 70% | `FastAPI` · `RAG` · `CUDA` · `PyTorch` |
+| 🛡️ **INTEGRITY** | `██████████████████` 100% | `Local-First` · `Zero-Cloud` |
+
+</div>
+
+---
+
+### 🗺️ ACTIVE QUEST LOG (Current Focus)
+
+```text
+[ MAIN QUEST ] ─── DSC: Desktop Shell Commander
+ > STATUS: Actively Forging [██████████░░] 80%
+ > OBJECTIVE: Unify AI chat, schedules, and filesystem workflows 
+              into a single, local-first Tauri shell.
+
+[ SIDE QUEST ] ─── PictoPy (AOSSIE / GSSoC)
+ > STATUS: Open Source Contribution [███░░░░░░░] 30%
+ > OBJECTIVE: Implement object detection & local face clustering 
+              without reliance on cloud vision APIs.
+```
+
+---
+
+### 🗡️ ARTIFACT VAULT (Flagship Engineering)
+
+<details open>
+<summary><b>🔓 Access Vault Contents</b></summary>
 
 #### `[Legendary]` 🛡️ DSC — Desktop Shell Commander
 > *A local-first desktop productivity shell unifying AI chat, notes, schedules, activity tracking, and filesystem workflows.*
@@ -73,38 +120,27 @@
 *   **Special Effect:** Calendar collision prevention rules.
 *   **Action:** [🔗 Source Code](https://github.com/Ashvin-KS/DailyForge) · [🌍 Live Deployment](https://dailyforge-frontend-lhjq.onrender.com)
 
----
-
-### 🌳 SKILL TREE (TECH ARSENAL)
-
-<details open>
-<summary><b>🔧 Expand Arsenal Matrix</b></summary>
-
-```toml
-[Languages]
-Mastered  = ["TypeScript", "Rust", "Python", "C++"]
-Familiar  = ["Dart", "JavaScript"]
-
-[Web_&_Desktop]
-Frameworks = ["React", "Tauri (Desktop)", "Vite"]
-Styling    = ["Tailwind CSS"]
-
-[Backend_&_Storage]
-Engines   = ["Node.js", "FastAPI", "Django", "Flask"]
-Databases = ["PostgreSQL", "Redis"]
-
-[Artificial_Intelligence]
-Hardware    = ["CUDA", "NVIDIA NIM"]
-Frameworks  = ["PyTorch", "HuggingFace", "OpenCV"]
-
-[Deployment_&_Ops]
-Tooling   = ["Docker", "GitHub Actions", "Vercel", "Render"]
-```
 </details>
 
 ---
 
-### 🏆 ACHIEVEMENTS UNLOCKED (CERTIFICATIONS)
+### 🧰 INVENTORY GRID (Tech Stack Matrix)
+
+<div align="center">
+
+| Category | Equipped Modules | Proficiency |
+| :--- | :--- | :--- |
+| **💻 Languages** | `TypeScript` `Rust` `Python` `C++` | `Mastered` |
+| **🌐 Web & Desktop** | `React` `Tauri` `Vite` `Tailwind` | `Mastered` |
+| **🗄️ Backend & DB** | `Node.js` `FastAPI` `Django` `PostgreSQL` | `Mastered` |
+| **🤖 AI & Hardware** | `CUDA` `NVIDIA NIM` `PyTorch` `OpenCV` | `Certified` |
+| **🚀 DevOps & Ops** | `Docker` `GitHub Actions` `Vercel` | `Fluent` |
+
+</div>
+
+---
+
+### 🏆 ACHIEVEMENTS UNLOCKED (Certifications)
 
 ```diff
 + [🏆 ACHIEVEMENT UNLOCKED] NVIDIA DLI ────────── Building RAG Agents with LLMs
@@ -134,18 +170,16 @@ Tooling   = ["Docker", "GitHub Actions", "Vercel", "Render"]
 
 ---
 
-### 🏰 GUILD ALLIANCES (EXPERIENCE)
+### 🏰 GUILD ALLIANCES (Experience)
 
-| Guild | Role | Duration | Reputation |
+| Guild | Role | Tenure | Reputation |
 | :--- | :--- | :--- | :--- |
 | **Microsoft Innovations Club** | Core Full-Stack Developer | `2024 - Present` | `Exalted` |
-| *Building production-grade apps, participating in guild hackathons.* | | | |
 | **AOSSIE (GSSoC Contribution)** | Open Source Contributor | `2026 - Present` | `Honored` |
-| *Committing features to **PictoPy** (object detection & local face clustering).* | | | |
 
 ---
 
-### 📊 SYSTEM TELEMETRY (GITHUB ANALYTICS)
+### 📊 SYSTEM TELEMETRY (Github Analytics)
 
 <div align="center">
 
@@ -174,12 +208,13 @@ Tooling   = ["Docker", "GitHub Actions", "Vercel", "Render"]
 ---
 
 <div align="center">
-  
+
 ```text
-[ ⚠️ SYSTEM OUTGOING ] ──────────────────────────────────────────────
+[ ⚠️ TERMINATING SESSION ] ─────────────────────────────────────────
  > SAVING LOCAL STATE...
+ > FLUSHING MEMORY CACHE...
  > CLOSING IPC CHANNELS...
- > CONNECTION TERMINATED.
+ > CONNECTION CLOSED. BUILD SOMETHING SOVEREIGN.
 ```
 
 <br/>
