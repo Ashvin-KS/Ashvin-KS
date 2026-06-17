@@ -1,6 +1,6 @@
 # ASHVIN K S
 
-**COMPUTER SCIENCE UNDERGRADUATE | FULL-STACK & DESKTOP APP DEVELOPER**
+**3RD YEAR COMPUTER SCIENCE UNDERGRADUATE | FULL-STACK & DESKTOP APP DEVELOPER**
 
 [ashvinksg@gmail.com](mailto:ashvinksg@gmail.com) &nbsp;·&nbsp; [github.com/Ashvin-KS](https://github.com/Ashvin-KS) &nbsp;·&nbsp; [ashvin-ks.github.io/portfolio](https://ashvin-ks.github.io/portfolio/)
 
@@ -15,8 +15,8 @@
 ### 02 / EDUCATION
 
 #### **Vellore Institute of Technology, Chennai**
-*B.Tech — Computer Science & Engineering* &nbsp;·&nbsp; `Aug 2024 – May 2028`
-*   **Current CGPA:** `9.38 / 10.00`
+*B.Tech — Computer Science & Engineering (3rd Year)* &nbsp;·&nbsp; `Aug 2024 – May 2028`
+*   **Current CGPA:** `9.26 / 10.00`
 
 ---
 
