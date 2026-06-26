@@ -28,7 +28,7 @@
 *   **Languages** — TypeScript, Python, Rust, JavaScript, Java, SQL, C, Shell/Bash
 *   **Frontend** — React, Next.js, Vite, Tailwind CSS, Framer Motion, HTML/CSS
 *   **Desktop** — Tauri, Rust IPC
-*   **Backend & Cloud** — Node.js, FastAPI, Flask, MySQL, MongoDB, Docker, AWS, Google Cloud, Vercel
+*   **Backend** — Node.js, FastAPI, Flask, MySQL, MongoDB
 
 ---
 
