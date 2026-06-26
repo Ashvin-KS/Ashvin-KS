@@ -71,6 +71,8 @@
     *   Reached out to companies and industry contacts to coordinate speakers, sponsorships, and event partnerships for club workshops and hackathons.
 *   **Technical Volunteer — CodeChef VITC Chapter** &nbsp;·&nbsp; `2024 – Present`
     *   *VIT Chennai* — Supporting algorithmic practice, competitive programming sessions, and campus technical events.
+*   **Outreach — Android Club VITC** &nbsp;·&nbsp; `Oct 2025 – Apr 2026`
+    *   Reached out to companies and industry contacts to coordinate speakers, sponsorships, and event partnerships for club workshops and hackathons.
 
 ---
 
