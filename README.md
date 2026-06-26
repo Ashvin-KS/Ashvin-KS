@@ -23,10 +23,10 @@
 
 ### 03 / TECHNICAL CAPABILITIES
 
-*   **Languages** — TypeScript, Python, Rust, JavaScript, Java, C, Shell/Bash
+*   **Languages** — TypeScript, Python, Rust, JavaScript, Java, SQL, C, Shell/Bash
 *   **Frontend** — React, Next.js, Vite, Tailwind CSS, Framer Motion, HTML/CSS
 *   **Desktop** — Tauri, Rust IPC
-*   **Backend** — Node.js, FastAPI, Flask, PostgreSQL, MongoDB, Redis
+*   **Backend** — Node.js, FastAPI, Flask, MySQL, MongoDB
 *   **AI / ML** — PyTorch, NVIDIA NIM APIs, HuggingFace, CUDA Python
 *   **DevOps** — GitHub Actions, Vercel, Docker, AWS, Google Cloud
 
@@ -64,10 +64,11 @@
 ### 06 / ACTIVITIES & LEADERSHIP
 
 *   **GirlScript Summer of Code (GSSoC 2026) — Open Source Contributor** &nbsp;·&nbsp; `2026`
-    *   28 PRs merged across 14 repositories — bug fixes (ESM crashes, JSON parsing failures, speaker misattribution), features (Docker Compose, CI/CD pipelines, drag-and-drop PDF reorder), and DX tooling.
-    *   130 issues filed across 22 repos; coordinated with maintainers across repos and resolved 12+ merge conflicts.
+    *   28 merged PRs across 14 open-source repositories — config standards, CI workflows, Docker environments, and contributor tooling.
 *   **Full-Stack Developer — Microsoft Innovations Club** &nbsp;·&nbsp; `2024 – Present`
     *   *VIT Chennai* — Contributing to club web projects, internal tools, APIs, and deployment workflows.
+*   **Outreach — Android Club VITC** &nbsp;·&nbsp; `Oct 2025 – Apr 2026`
+    *   Reached out to companies and industry contacts to coordinate speakers, sponsorships, and event partnerships for club workshops and hackathons.
 *   **Technical Volunteer — CodeChef VITC Chapter** &nbsp;·&nbsp; `2024 – Present`
     *   *VIT Chennai* — Supporting algorithmic practice, competitive programming sessions, and campus technical events.
 
