@@ -18,7 +18,8 @@
 *B.Tech — Computer Science & Engineering (3rd Year)* &nbsp;·&nbsp; `Aug 2024 – May 2028`
 *   **Current CGPA:** `9.26 / 10.00`
 *   **Relevant Coursework:** Data Structures & Algorithms, Operating Systems, Computer Networks, Design & Analysis of Algorithms, Computer Architecture
-*   **CBSE Class XII:** 96.4% (Computer Science: 100/100) · **Class X:** 96.6% (Mathematics: 100/100)
+*   **CBSE Class XII:** 96.4% (Computer Science: 100/100) — Srimathi Sundaravalli Memorial School
+*   **CBSE Class X:** 96.6% (Mathematics: 100/100) — Srimathi Sundaravalli Memorial School
 
 ---
 
@@ -27,9 +28,7 @@
 *   **Languages** — TypeScript, Python, Rust, JavaScript, Java, SQL, C, Shell/Bash
 *   **Frontend** — React, Next.js, Vite, Tailwind CSS, Framer Motion, HTML/CSS
 *   **Desktop** — Tauri, Rust IPC
-*   **Backend** — Node.js, FastAPI, Flask, MySQL, MongoDB
-*   **AI / ML** — PyTorch, NVIDIA NIM APIs, HuggingFace, CUDA Python
-*   **DevOps** — GitHub Actions, Vercel, Docker, AWS, Google Cloud
+*   **Backend & Cloud** — Node.js, FastAPI, Flask, MySQL, MongoDB, Docker, AWS, Google Cloud, Vercel
 
 ---
 
